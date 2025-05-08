@@ -2,6 +2,11 @@
 
 A React frontend and Flask API backend application that displays medicine comparisons with detailed analytics, salt content information, and user reviews.
 
+## Video Introduction
+[View my introduction video](https://drive.google.com/file/d/1hjeaKHhRpSRmIXWG9cTXo6yD060EWxRL/view?usp=sharing)
+
+*This 5-minute video introduces myself, my technical background, and my approach to the Medingen project.*
+
 ## Project Overview
 
 This project implements a medicine comparison platform with the following features:
@@ -165,3 +170,15 @@ Use the following credentials for the demo:
 - Enhance the mobile experience
 - Add unit and integration tests
 - Implement caching for improved performance
+
+## Video Introduction Requirements
+
+As part of the submission requirements, I've recorded a 5-minute video introduction about myself and my approach to this project. The video covers:
+
+1. A brief personal introduction
+2. My technical background
+3. The approach taken for this project
+4. Key design decisions and trade-offs
+5. Challenges faced during development
+
+The video is accessible via the Google Drive link at the top of this README.
